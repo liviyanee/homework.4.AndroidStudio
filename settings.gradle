@@ -1,0 +1,2 @@
+rootProject.name = "HomeWork.4.AndroidStudio"
+include ':app'
